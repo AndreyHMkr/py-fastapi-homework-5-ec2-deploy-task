@@ -2,7 +2,15 @@
 
 Welcome to the AWS EC2 deployment guide for our project! This comprehensive tutorial will walk you through the entire process of deploying your application on an AWS EC2 instance. By following these steps, you'll set up a robust and scalable environment tailored to your project's needs.
 
+## Link to Deployed Project
+
+🌐 [Deployed FastAPI Project](http://52.19.21.167/docs)
 ### What You'll Learn
+
+### Credentials
+
+- **Username:** `mate_user`  
+- **Password:** `FkVoD8uJ1vznAIV`
 
 - **AWS Account Registration:** How to create and set up your AWS account.
 - **Selecting the Right Region:** Choosing the optimal AWS region for your deployment.
